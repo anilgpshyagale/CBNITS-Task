@@ -73,7 +73,7 @@ const mapStateToProps = state => ({
 
                       <h2>Login </h2>
                     <div class="form-outline mb-2">
-                        <label class="form-label" >Email address</label><br />
+                        <label  >Email address</label><br />
                         <input type="email"  onChange={this.handlechange} class="mytext" required/>
 
                     </div><br/><br/>
